@@ -2082,13 +2082,14 @@ input, select, textarea {
 		font-size: 0.8rem;
 		font-weight: 900;
 		letter-spacing: 0.075em;
-		height: 3rem;
-		line-height: 3rem;
-		padding: 0 2rem;
+		height: 6rem;
+		line-height: 6rem;
+		padding: 2 2rem;
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
+		color: royalblue;
 	}
 
 		input[type="submit"].icon:before,
